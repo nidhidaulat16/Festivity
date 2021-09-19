@@ -1,0 +1,83 @@
+.diwali-tabs {
+    height:40px;
+    background-color:rgb(138, 205, 243);
+}
+
+.main {
+    top:center;
+    background-color:rgb(138, 205, 243);
+    color:black;
+}
+
+.main:hover{
+    background-color:rgb(18, 70, 100);
+}
+
+.cart {
+    background-color:rgb(27, 95, 134);
+    color:white;
+}
+
+.items {
+    background-color:white;
+    column-span: 4;
+    padding:1rem;
+    margin-top:0px;
+}
+
+.item-container {
+    
+    background-color:rgb(187, 204, 241);
+    width: 280px;
+    height: 450px;
+    border-radius: 10px;   
+}
+
+.image {
+    background-color:white;
+    top:5px;
+    padding-top:5px;
+    max-width:150px;
+    height: 170px;
+    width: 350px;
+    margin-left:3.5rem;
+}
+
+.data {
+    margin-top:0px;
+    font-size:12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media only screen and (max-width: 1020px) {
+    .items {
+        background-color:white;
+        column-span: 12;
+        padding:0.5rem;
+    }
+    
+    .item-container {
+        background-color:rgb(187, 204, 241);
+        width: 280px;
+        height: 480px;
+        border-radius: 10px;   
+    }
+    
+    .image {
+        background-color:white;
+        top:5px;
+        padding-top:5px;
+        max-width:150px;
+        height: 170px;
+        width: 350px;
+        margin-left:3rem;
+    }
+    
+    .data {
+        margin-top:0px;
+        font-size:12px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+
+}
