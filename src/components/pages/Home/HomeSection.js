@@ -4,20 +4,18 @@ import './HomeSection.css';
 
 function HeroSection() {
     return (
+        
         <div className='hero-container'>
-           <video src="/videos/home1.mov" autoPlay loop muted />
-           <h1>FESTIVITY</h1> 
-           <p>The Treasure Island Of Festivals</p>
-           <div className="jumbotron box1">
-               <h3>About Us</h3>
-               Festivity is an e-commerce website that avails user 
-               to shop through an exclusive range of products. 
-               Your favourite time of the year - Festivals!
-               Yes, here we have Festival Catalogs that you can 
-               choose items from to make these days your most special one.
-               We wish for your comfort and timely shopping.
-           </div>
+           {/*<video src="/videos/home1.mov" autoPlay loop muted />*/}
+            <img className="cover" src="images/coverhome1.jpg" alt="cover image"></img>
+            <div className="container-fluid herosection mt-0">
+                <h1 className="title">FESTIVITY</h1> 
+                <p className="quote">Treasure House Of Festivals</p>
+                <p className="heading-tag">Shop for your favourite festival with us!</p>
+            </div>
         </div>
+
+            
     )
 }
 

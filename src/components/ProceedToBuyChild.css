@@ -1,0 +1,31 @@
+.bill {
+    border:1px solid rgb(94, 91, 91);
+    border-radius:10px;
+    background-color:rgb(150, 150, 145);
+    height:80px;
+    width:600px;
+    border-radius:8px;
+}
+
+.bill:hover{
+    background-color:rgb(133, 133, 128);
+}
+
+.bill-name {
+    text-align:center;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+
+.bill-body {
+    text-align:center;
+    background-color:rgb(204, 199, 199);
+}
+
+
+.bill-amount {
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}

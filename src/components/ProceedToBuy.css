@@ -1,0 +1,42 @@
+.bill-header{
+    text-align:center;
+    font-size:24px;
+    color:rgb(159, 115, 241);
+    font-family:cursive;
+}
+
+.bill-links {
+    text-decoration:none;
+}
+.next{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;
+    color:rgb(14, 211, 41);
+    text-decoration:none;
+}
+
+.next:hover{
+    color:rgb(64, 231, 86);
+    text-decoration:none;
+}
+
+.back{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;
+    color:rgb(231, 31, 31);
+    text-decoration:none;
+    
+}
+
+.back:hover{
+    color:rgb(238, 98, 98);
+    text-decoration:none;
+}
+
+.totalamt {
+    margin-top:2rem;
+    height:50px;
+    font-size:22px;
+    color:rgb(240, 83, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

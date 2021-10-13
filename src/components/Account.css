@@ -1,0 +1,93 @@
+.account-header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color:rgb(235, 137, 214);
+    font-size:44px;
+}
+
+.account-main {
+    background-color:black;
+    border:1px solid white;
+    box-shadow: 0 6px 10px rgb(187, 180, 180);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    height:240px;
+    width:380px;
+}
+
+.user-circle {  
+    justify-content:center;
+    text-align:center;
+}
+
+.user-pic {
+    text-align:center;
+}
+
+.user-name {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:26px;
+    color:rgb(226, 93, 110);
+    text-align:center;
+}
+
+.user-email {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:22px;
+    color:rgb(226, 93, 171);
+    text-align:center;
+}
+
+.history-header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color:rgb(238, 115, 131);
+    font-size:38px;
+}
+
+.history-tag {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color:rgb(240, 69, 163);
+    font-size:26px;
+}
+
+.history-container{
+    width:900px;  
+}
+
+.history-title {
+    font-size:22px;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(44, 43, 43);
+    color:white;
+}
+
+.history-price {
+    font-size:22px;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(70, 69, 69);
+    color:white;
+}
+
+.add-address {
+    margin-top:1rem;
+    padding:6px 8px;
+    border-radius:7px;
+    text-decoration:none;
+    background: #FF5F6D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.add-address:hover {
+    border-radius:7px;
+    background: #C33764;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8c96f3, #ee96b2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8c96f3, #ee96b2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-decoration:none;
+}

@@ -2,44 +2,59 @@ import React from 'react'
 import CatalogItem from './CatalogItem';
 import './Catalog.css';
 
+
 function Catalog() {
     return (
+        <>
+        <body>
         <div className="catalog">
-            <h1>Festival Catalogs</h1>
-            <div className="catalog__container">
+            <h2 className="headline">GREAT INDIAN FESTIVAL</h2>
+            <p className="tagline">This festival make your homes lively and memories full.</p>  
+            <div className="catalog__container ">
                 <div className="catalog__wrapper">
                     <ul className="catalog__items">
                         <CatalogItem 
-                        src="images/catalogs/diwali/diwali1.jpg"
+                        src="images/catalogs/diwali/diwali2.jpg"
                         text="Diwali"
-                        label="Unlock Festival"
                         path="/diwali"
                         /> 
                         <CatalogItem 
-                        src="images/catalogs/ganesh/ganesh-card.jpg"
-                        text="Ganesh Chaturthi"
-                        label="Unlock Festival"
-                        path="/cart"
+                        src="images/catalogs/navratri/navratri1.png"
+                        text="Navratri"
+                        path="/navratri"
                         />
-                    </ul>
-                    <ul className="catalog__items">
                         <CatalogItem 
                         src="images/catalogs/christmas/christmas1.jpg"
                         text="Christmas"
-                        label="Unlock Festival"
-                        path="/cart"
+                        path="/christmas"
+                        /> 
+                        
+                    </ul>
+                    <br></br>
+                    <ul className="catalog__items">
+                        <CatalogItem 
+                        src="images/catalogs/eid/eid1.jpg"
+                        text="Eid"
+                        path="/eid"
                         /> 
                         <CatalogItem 
-                        src="images/catalogs/rakshabandhan/rakshabandhan1.jpg"
-                        text="Rakshabandhan"
-                        label="Unlock Festival"
-                        path="/cart"
+                        src="images/catalogs/ganpati/ganesh-card.jpg"
+                        text="Ganesh Chaturthi"
+                        path="/ganpati"
                         />
+                        <CatalogItem 
+                        src="images/catalogs/rakhi/rakshabandhan1.jpg"
+                        text="Rakshabandhan"
+                        path="/rakhi"
+                        />
+                        
                     </ul>
                 </div>
             </div>
             
         </div>
+        </body>
+        </>
     )
 }
 

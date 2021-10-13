@@ -1,0 +1,88 @@
+.main-signup {
+    height:510px;
+    width:600px;
+    background-color:black;
+    border:1px solid rgb(223, 216, 216);
+    box-shadow: 0 6px 10px white;
+    -webkit-filter: drop-shadow(0 6px 20px rgb(71, 60, 60));
+    filter: drop-shadow(0 6px 20px rgb(75, 63, 63));
+}
+
+.signup-header {
+    height: 50px;
+}
+
+.heading-signup {
+    text-align:center;
+    padding-top:10px;
+    font-size:48px;
+    color:rgb(230, 80, 172);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.signup-content {
+   padding-top:5px;;
+}
+
+.form-label {
+    color:rgb(235, 75, 227);
+    font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form-control {
+    background: #bdc3c7;  /* fallback for old browsers */  
+    color:black;
+    width:100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-text{
+    color:black;
+    font-size:14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.fa-envelope{
+    color:rgb(235, 75, 227);
+}
+
+.fa-key{
+    color:rgb(235, 75, 227);
+}
+
+.fa-user-circle{
+    color:rgb(235, 75, 227);
+}
+
+.fa-lock{
+    color:rgb(235, 75, 227);
+}
+
+.signup-submit {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    background: #ee0979;  
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #000;
+    transition: all 0.3s ease;
+}
+
+.signup-submit:hover {
+  text-decoration:none;
+  background: -webkit-linear-gradient(to right, rgb(14, 20, 190), #1ace29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(14, 20, 190), #1ace29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+hr {
+    background-color:rgb(155, 148, 148);
+}
+
+@media screen and (max-width: 960px) {
+    .main-signup {
+        height:570px;
+        width:320px;
+    }
+}

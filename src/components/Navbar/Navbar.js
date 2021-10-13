@@ -21,10 +21,11 @@ const Navbar = () => {
     },[location])
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar-head">
+
+        <nav className="navbar navbar-expand-lg navbar-head">
             <div className="container-fluid">
                 <Link className="navbar-brand" to="/" onClick={closeMobileMenu}>
-                    Festivity <i className='fab fa-typo3' />
+                    <i class="fas fa-gift"></i>&ensp;Festivity 
                 </Link>
                 <div className="menu-icon" onClick={handleClick}>
                     <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -44,27 +45,19 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link className={`nav-link ${location.pathname==="/wishlist"?"active":""}`} to="/wishlist">Wishlist</Link>
                         </li>
-
+                    
                         <li className="nav-item">
-                        <Link 
-                           to='/login' 
-                           className='nav-links-mobile' 
-                           onClick={closeMobileMenu}>
-                            Login
-                        </Link> 
+                           <Link 
+                              to='/login' 
+                              className='nav-links-mobile' 
+                              onClick={closeMobileMenu}>
+                              Login
+                           </Link> 
                         </li>
-                        <Link 
-                           to='/signup' 
-                           className='nav-links-mobile' 
-                           onClick={closeMobileMenu}>
-                            Sign Up
-                        </Link>
-
                     </ul>
                     {!localStorage.getItem('token')?<form className="d-flex">
-                    <Link className="btn btn-primary mx-1" to="/login" role="button">Login</Link>
-                    <Link className="btn btn-primary mx-1" to="/signup" role="button">Signup</Link>
-                    </form>: <button onClick={handleLogout} className="btn btn-primary"> Logout </button>}
+                    <Link className="btn btn-primary mx-1 login" to="/login" role="button">Login</Link>
+                    </form>: <button onClick={handleLogout} className="btn btn-primary logout"> Logout </button>}
                 </div>
             
         </nav>

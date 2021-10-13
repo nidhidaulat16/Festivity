@@ -6,7 +6,7 @@ function CatalogItem(props) {
         <div>
             <li className="catalog__item">
                 <Link className="catalog__item__link" to={props.path}>
-                    <figure className="catalog__item__pic-wrap" data-category={props.label}>
+                    <figure className="catalog__item__pic-wrap">
                         <img src={props.src} alt="Diwali Image"
                         className="catalog__item__img"></img>
                     </figure>   

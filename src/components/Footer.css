@@ -1,5 +1,5 @@
 .footer-container {
-    background-color: #242424;
+    background-color: #3d3c3c;
     padding: 4rem 0 2rem 0;
     display: flex;
     flex-direction: column;
@@ -27,11 +27,13 @@
   .footer-subscription-heading {
     margin-bottom: 24px;
     font-size: 24px;
+    color:white;
   }
   
   .footer-subscription-text {
     margin-bottom: 24px;
     font-size: 20px;
+    color:white;
   }
   
   .footer-input {
@@ -121,6 +123,7 @@
   }
   
   .social-logo {
+    font-family:cursive;
     color: #fff;
     justify-self: start;
     margin-left: 20px;
@@ -131,8 +134,15 @@
     align-items: center;
     margin-bottom: 16px;
   }
+
+  .social-logo:hover{
+    color:rgb(243, 119, 140);
+    text-decoration:none;
+  }
   
   .website-rights {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
     color: #fff;
     margin-bottom: 16px;
   }

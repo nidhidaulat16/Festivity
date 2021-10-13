@@ -1,12 +1,23 @@
 .catalog {
-    padding: 1rem;
-    background: #fff;
+    padding: 3rem;
+    background: rgb(29, 26, 26);
     text-decoration:none;
   }
   
-  h1 {
+.headline {
     text-align: center;
-  }
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#ee0979;
+}
+
+.tagline {
+  text-align:center;
+  font-size:26px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:#da22ff;
+}
+
   
   .catalog__container {
     display: flex;
@@ -36,13 +47,14 @@
     margin: 0 1rem;
     border-radius: 10px;
     margin:10px 20px;
+    background-color:rgb(241, 233, 233);
   }
   
   .catalog__item__link {
     display: flex;
     flex-flow: column;
     width: 100%;
-    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    box-shadow: 0 6px 20px rgba(187, 180, 180, 0.76);
     -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
     filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
     border-radius: 10px;
@@ -55,8 +67,8 @@
     width: 100%;
     padding-top: 67%;
     overflow: hidden;
-    height: 220px;
-    width: 350px;
+    height: 150px;
+    width: 290px;
   }
   
   .fade-img {
@@ -74,7 +86,6 @@
     font-size: 16px;
     font-weight: 700;
     color: black;
-    background-color: #dd90f0;
     box-sizing: border-box;
   }
   
@@ -86,7 +97,7 @@
     left: 0;
     display: block;
     height: 220px;
-    width: 350px;
+    width: 300px;
     object-fit: cover;
     transition: all 0.2s linear;
   }
@@ -100,11 +111,23 @@
   }
   
   .catalog__item__text {
-    color: #210941;
-    font-size: 25px;
-    line-height: 20px;
+    color: #7c1046; /* fallback for old browsers */
+    color: -webkit-linear-gradient(to right, #3498db, #2c3e50); /* Chrome 10-25, Safari 5.1-6 */
+    color: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-size: 1.8rem;
+    line-height: 5px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
+    text-decoration:none;
+  }
+
+  .catalog__item__text:hover {
+    text-decoration:none;
+    color:#100970;
+  }
+
+  .catalog__item__link:hover{
+    text-decoration:none;
   }
   
   @media only screen and (min-width: 1200px) {
@@ -122,5 +145,14 @@
   @media only screen and (max-width: 1024px) {
     .catalog__item {
       margin-bottom: 2rem;
+    }
+
+    .catalog__item__text:hover {
+      text-decoration:none;
+      color:#100970;
+    }
+  
+    .catalog__item__link:hover{
+      text-decoration:none;
     }
   }

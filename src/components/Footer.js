@@ -50,8 +50,9 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
+              <i class="fas fa-gift"></i>&ensp;
               Festivity
-              <i class='fab fa-typo3' />
+              
             </Link>
           </div>
           <small class='website-rights'>Festivity © 2021</small>

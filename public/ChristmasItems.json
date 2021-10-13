@@ -1,0 +1,197 @@
+[
+
+    {
+        "id": 31, 
+        "uid":31,      
+        "product_name": "Christmas Candles",
+        "company_name": "Party Suppliers",
+        "image": "images/catalogs/christmas/candle 2.jpg",
+        "category": "candles",
+        "description": "4 pieces - Snowman, Santa, Pine cone, Gift, House shapes, Long lasting burning",
+        "price": "800",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 32,
+        "uid":32,       
+        "product_name": "Scented Pillar Candles",
+        "company_name": "Invitation Cottage",
+        "image": "images/catalogs/christmas/candle 4.jpg",
+        "category": "candles",
+        "description": "Pack of 4, Varying sizes, Scented, Colour - Red, long burning hours",
+        "price": "350",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 33,
+        "uid":33,       
+        "product_name": "Rose Pillar Candles",
+        "company_name": "Conphisco",
+        "image": "images/catalogs/christmas/candle 5.jpg",
+        "category": "candles",
+        "description": "Pack of 2 (2,4,6,8 available), Rose Scented, Thick pillar shape, Rose outer design",
+        "price": "250",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 34, 
+        "uid":34,      
+        "product_name": "Cotton Fur Caps",
+        "company_name": "ME & YOU",
+        "image": "images/catalogs/christmas/cap 2.jpg",
+        "category": "caps",
+        "description": "2 Santa Caps, Material - Soft Cotton, Color - Red, White,Dimensions - 8 x 8 x 8 cm",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 35,
+        "uid":35,       
+        "product_name": "Reindeer Hairband",
+        "company_name": "ME & YOU",
+        "image": "images/catalogs/christmas/cap 3.jpg",
+        "category": "caps",
+        "description": "Fur covered plastic band, Size - 11 inches, Made with velvet and fur ",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 36,
+        "uid":36,       
+        "product_name": "LED Star Cap",
+        "company_name": "A2Z",
+        "image": "images/catalogs/christmas/cap 4.jpg",
+        "category": "caps",
+        "description": "Pack of 2, Free size, Material - Cotton, ON/OFF Button for LED Light on Hat",
+        "price": "400",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 37,
+        "uid": 37,       
+        "product_name": "Christmas Tree Balls",
+        "company_name": "FizzyTech",
+        "image": "images/catalogs/christmas/decoration 1.jpg",
+        "category": "decoration",
+        "description": "Material - Plastic, Colour - Gold, Pieces - 24, Diameter: App 3cm ",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 38,
+        "uid": 38,       
+        "product_name": "RED Christmas Balls",
+        "company_name": "FizzyTech",
+        "image": "images/catalogs/christmas/decoration 2.jpg",
+        "category": "decoration",
+        "description": "Material - Plastic, Colour - Red, Pieces - 24, Diameter: App 3cm ",
+        "price": "350",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 39,
+        "uid": 39,       
+        "product_name": "Decoration items",
+        "company_name": "Aadira",
+        "image": "images/catalogs/christmas/decoration 4.jpg",
+        "category": "decoration",
+        "description": "20-Stars, 1-Christmas Garland, 12-Balls, 2-Drums,24-Gifts, 6-Santa, 12-Candy,12-Bells",
+        "price": "500",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 40, 
+        "uid":40,      
+        "product_name": "Garland String Light",
+        "company_name": "Glimmer",
+        "image": "images/catalogs/christmas/decoration 5.jpg",
+        "category": "decoration",
+        "description": "Light Source Type - LED, Color - Green, 5 meter long, Power Source - DC",
+        "price": "550",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 41,
+        "uid":41,       
+        "product_name": "Star Curtain Lights",
+        "company_name": "JHEPCOIN",
+        "image": "images/catalogs/christmas/lights 1.jpg",
+        "category": "lights",
+        "description": "Material - Plastic, Light Source Type - LED, Color - Multicolor, Waterproof",
+        "price": "600",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 42,
+        "uid":42,       
+        "product_name": "SnowFlake Lights",
+        "company_name": "Quace",
+        "image": "images/catalogs/christmas/lights 3.jpg",
+        "category": "lights",
+        "description": "Number of Items - ‎1, Colour - ‎Multicolor, Material - ‎Plastic, No. of Lights - 20",
+        "price": "600",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 43,
+        "uid":43,       
+        "product_name": "‎Blossom Flower Light",
+        "company_name": "Fizzytech",
+        "image": "images/catalogs/christmas/lights 4.jpg",
+        "category": "lights",
+        "description": "Number of Items - ‎1, Colour - ‎Warm White, Material - ‎Plastic, No. of Lights - 25",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 44,
+        "uid":44,       
+        "product_name": "3 feet Christmas Tree",
+        "company_name": "Ascension",
+        "image": "images/catalogs/christmas/tree 2.jpg",
+        "category": "trees",
+        "description": "Also includes Free 13 PCs Decorative Toys, Tree material : PVC",
+        "price": "600",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 45,
+        "uid":45,       
+        "product_name": "Christmas Wreath",
+        "company_name": "Aaryash",
+        "image": "images/catalogs/christmas/wreath 3.jpg",
+        "category": "wreaths",
+        "description": "Size -  40 cm, Multicolor, Material - PVC, Consists : Balls, pine cone, Berry, apples",
+        "price": "600",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 46,
+        "uid":46,       
+        "product_name": "Wall Hanging Wreath",
+        "company_name": "Lucky's hub",
+        "image": "images/catalogs/christmas/wreath 4.jpg",
+        "category": "wreaths",
+        "description": "Size - 30 cm, Colour - Green Red, Material - PVC, Durable and safe to use.",
+        "price": "300",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 47,
+        "uid":47,       
+        "product_name": "Decorative Wreath",
+        "company_name": "Kriti's Creations",
+        "image": "images/catalogs/christmas/wreath 5.jpg",
+        "category": "wreaths",
+        "description": "Size - 26 cm , Material - Plastic, Colour - Vibrant Red, Handmade",
+        "price": "500",
+        "ratings": "images/ratings/5star.png"
+    }
+     
+]

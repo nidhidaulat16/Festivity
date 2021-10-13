@@ -1,0 +1,130 @@
+.main {
+    margin-top:2rem;
+    margin-bottom:2rem;
+}
+
+.product {
+    margin-left:1.2rem;
+    width:270px;
+    height:370px;
+    background-color:white;
+    box-shadow: 0 6px 10px rgb(187, 180, 180);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+
+.card-body {
+    box-shadow: 0 6px 20px rgba(72, 79, 92, 0.17);
+    background: #dfd9dd;  /* fallback for old browsers */
+}
+
+.ratings {
+    height:25px;
+    width:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5px;
+}
+
+.image-container{
+    justify-content:center;
+    background-color:white;
+}
+
+.image {
+    padding-left:2.2rem;
+    height:150px;
+    width:230px;  
+}
+
+.items-title {
+    color:rgb(145, 11, 11);
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+
+.items-text {
+    color:rgb(141, 11, 108);
+    text-align:center;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wishlist {
+    padding: 8px 15px;
+    color:white;
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #3c135a, #c01a35);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #3c135a, #c01a35); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.wishlist:hover{
+    border-radius:7px;
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #712ca1, #c53a51);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #712ca1, #c53a51); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.cart{
+    padding: 8px 10px;
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #3c135a, #c01a35);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #3c135a, #c01a35); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.cart:hover{
+    border-radius:7px;
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #712ca1, #c53a51);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #712ca1, #c53a51); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.back-items{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;
+    color:rgb(231, 31, 31);
+    text-decoration:none;
+    
+}
+
+.back-items:hover{
+    color:rgb(238, 98, 98);
+    text-decoration:none;
+}
+
+.view-now {
+    background-color: #dfd9dd; 
+}
+
+.view-now:hover {
+    background-color: #dfd9dd; 
+}
+
+.view {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:#dfd9dd; 
+    padding: 5px 5px;
+    color:black;
+    text-decoration: none;
+}
+
+.view:hover{
+    text-decoration:none;
+    color:rgb(172, 13, 13);
+
+}
+
+@media screen and (max-width: 960px) {
+   .product {
+      width:300px;
+      height:445px;
+   } 
+
+
+}

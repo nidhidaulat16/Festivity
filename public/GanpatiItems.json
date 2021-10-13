@@ -1,0 +1,225 @@
+[
+
+    {
+        "id": 63,
+        "uid":63,       
+        "product_name": "Ganesha Leaf Toran",
+        "company_name": "Narya",
+        "image": "images/catalogs/ganpati/toran 2.jpg",
+        "category": "toran",
+        "description": "Material - Metal, Size - 3 feet, Ganesh Idol with mango leaf and pearls, Color - Golden",
+        "price": "200",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 64,
+        "uid":64,       
+        "product_name": "Artificial Marigold Toran",
+        "company_name": "JH Gallery",
+        "image": "images/catalogs/ganpati/toran 3.jpg",
+        "category": "toran",
+        "description": "Material - Plastic, Size - 42 cms, Hanging for door entrance, Color - Red and Yellow",
+        "price": "700",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 65,
+        "uid":65,       
+        "product_name": "Metal Toran",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/ganpati/toran 4.jpg",
+        "category": "toran",
+        "description": "Material - Plastic, Size - 35 inches, Traditional look, Color - Red and Yellow",
+        "price": "400",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 66,
+        "uid":66,       
+        "product_name": "Religious Toran",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/ganpati/toran 5.jpg",
+        "category": "toran",
+        "description": "Material - Plastic, Size - 35 inches, Traditional look, leaf and pearls, Color - Multicolour",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 67,
+        "uid":67,       
+        "product_name": "Purple Artificial Flowers",
+        "company_name": "Tdas",
+        "image": "images/catalogs/ganpati/decoration 1.jpg",
+        "category": "decoration",
+        "description": "6 pieces, Size - 110 cm, Contains natural looking leaves, Colour - Purple, Material - Silk",
+        "price": "800",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 68,
+        "uid":68,       
+        "product_name": "Pink Artificial Flowers",
+        "company_name": "Tdas",
+        "image": "images/catalogs/ganpati/decoration 3.jpg",
+        "category": "decoration",
+        "description": "6 pieces, Size - 110 cm, Contains natural looking leaves, Colour - Pink, Material - Silk",
+        "price": "750",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 69,
+        "uid":69,       
+        "product_name": "White Artificial Flowers",
+        "company_name": "Tdas",
+        "image": "images/catalogs/ganpati/decoration 4.jpg",
+        "category": "decoration",
+        "description": "6 pieces, Size - 110 cm, Contains natural looking leaves, Colour - White, Material - Silk",
+        "price": "750",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 70,
+        "uid":70,       
+        "product_name": "Curtain LED Lights",
+        "company_name": "Citra",
+        "image": "images/catalogs/ganpati/lighting 2.jpg",
+        "category": "lighting",
+        "description": "9.8 feet long, 240 LED light sources, 8 different modes, Colour - Multicolor, Waterproof",
+        "price": "950",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 71,
+        "uid":71,       
+        "product_name": "Balls String Lights",
+        "company_name": "AtenP",
+        "image": "images/catalogs/ganpati/lighting 3.jpg",
+        "category": "lighting",
+        "description": "5 meter long, 40 led bulbs, Colour - Multicolor, Colour changing feature, Waterproof",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 72,
+        "uid":72,       
+        "product_name": "Blossom String Lights",
+        "company_name": "Nisco",
+        "image": "images/catalogs/ganpati/lighting 5.jpg",
+        "category": "lighting",
+        "description": "8 feet long, 36 LED light sources, Shape - Flower, Colour - Warm White, Waterproof",
+        "price": "400",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 73,
+        "uid":73,       
+        "product_name": "Ganesha Painted Thali",
+        "company_name": "A.Pioneer",
+        "image": "images/catalogs/ganpati/thali 1.jpg",
+        "category": "thali",
+        "description": "11 inch, Ganesha and design handpainted, 5 Diyas attached, Color - Maroon, Yellow",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 74,
+        "uid":74,       
+        "product_name": "Decorative Pooja Thali",
+        "company_name": "GoldGiftIdeas",
+        "image": "images/catalogs/ganpati/thali 2.jpg",
+        "category": "thali",
+        "description": "11 inch, Ganesha and design handpainted, 5 Diyas attached, Color - Maroon, Green",
+        "price": "400",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 75,
+        "uid":75,       
+        "product_name": "Pooja Aarti Thali",
+        "company_name": "Hazel",
+        "image": "images/catalogs/ganpati/thali 3.jpg",
+        "category": "thali",
+        "description": "Material - Stainless Steel, Size - 28 cm, 5 other pooja items included, Color - Silver",
+        "price": "900",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 76,
+        "uid":76,       
+        "product_name": "Minakari Work Thali",
+        "company_name": "Hazel",
+        "image": "images/catalogs/ganpati/thali 4.jpg",
+        "category": "thali",
+        "description": "Material - Stainless Steel, Size - 28.6 cm, Delicate Minakari work, Color - Multicolor",
+        "price": "650",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 77,
+        "uid":77,       
+        "product_name": "Laxmi Ganesh Thali",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/ganpati/thali 5.jpg",
+        "category": "thali",
+        "description": "Material - Metal, Gold finish, 7.5 inches, Contains Ganesh and Laxmi Idols, Color - Golden",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 78,
+        "uid":78,       
+        "product_name": "Ganesha Oil Lamp",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/ganpati/diya 1.jpg",
+        "category": "diya",
+        "description": "Material - Aluminium with Golden finish, Size - 4.5 inches, Hand Carved Diya, Color - Golden",
+        "price": "200",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 79,
+        "uid":79,       
+        "product_name": "Ganesha Idol Diya",
+        "company_name": "Viskaa",
+        "image": "images/catalogs/ganpati/diya 2.jpg",
+        "category": "diya",
+        "description": "Material - Iron, Height - 11 In ; Width : 6.7 In, Ganesha Idol Diya, Color - Black and Green",
+        "price": "500",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 80,
+        "uid":80,       
+        "product_name": "Ganesha Leaf Diya",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/ganpati/diya 3.jpg",
+        "category": "diya",
+        "description": "Material - Aluminium Metal with gold finish, 4.5 In Length, Traditional look, Color - Golden",
+        "price": "250",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 81,
+        "uid":81,       
+        "product_name": "Ganesha Shadow Diya",
+        "company_name": "VR Creatives",
+        "image": "images/catalogs/ganpati/diya 4.jpg",
+        "category": "diya",
+        "description": "Material - Wood, Dimensions - ‎8x8x8 cm, Traditional Style, Color - Golden",
+        "price": "100",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 82,
+        "uid":82,       
+        "product_name": "Ganesha Wall Hanging",
+        "company_name": "eCraftIndia",
+        "image": "images/catalogs/ganpati/diya 5.jpg",
+        "category": "diya",
+        "description": "Material - Brass, 23 x 11.6 x 8.4 cm, Wall Hanging with 3 diyas and bells, Color - Brown",
+        "price": "650",
+        "ratings": "images/ratings/4star.png"
+    }
+     
+]

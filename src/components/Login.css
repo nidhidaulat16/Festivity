@@ -1,0 +1,103 @@
+body {
+    background: rgb(29, 26, 26);
+}
+
+.main-login {
+    height:510px;
+    width:450px;
+    background-color:black;
+    border:1px solid rgb(223, 216, 216);
+    box-shadow: 0 6px 10px white;
+    -webkit-filter: drop-shadow(0 6px 20px rgb(71, 60, 60));
+    filter: drop-shadow(0 6px 20px rgb(75, 63, 63));
+}
+
+.login-header {
+    text-align:center;
+    height: 60px;
+}
+
+
+.heading-login {
+    text-align:center;
+    padding-top:10px;
+    font-size:48px;
+    color:rgb(230, 80, 172);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.fa-envelope{
+    color:rgb(235, 75, 227);
+}
+
+.fa-key{
+    color:rgb(235, 75, 227);
+}
+.login-content {
+   padding-top:20px;;
+}
+
+.form-lb {
+    color:rgb(235, 75, 227);
+    font-size:24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form-control {
+    color:black;
+    width:100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: #bdc3c7;  /* fallback for old browsers */  
+}
+
+.form-text{
+    color:black;
+    font-size:14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.login-submit {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:22px;
+    background: #ee0979;  
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #000;
+    transition: all 0.3s ease;
+}
+
+.login-submit:hover {
+  text-decoration:none;
+  background: -webkit-linear-gradient(to right, rgb(14, 20, 190), #1ace29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(14, 20, 190), #1ace29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.signup-tagline {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    color:pink;
+    font-size:20px;
+}
+
+.signup{
+    background: #ee0979;  
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #000;
+    transition: all 0.3s ease;
+  }
+  
+  .signup:hover {
+    text-decoration:none;
+    background: -webkit-linear-gradient(to right, rgb(14, 20, 190), #1ace29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgb(14, 20, 190), #1ace29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+@media screen and (max-width: 960px) {
+    .main-login {
+        height:550px;
+        width:320px;
+    }
+}
