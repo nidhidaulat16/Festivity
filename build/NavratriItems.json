@@ -1,0 +1,174 @@
+[
+
+    {
+        "id": 48,    
+        "uid":48,   
+        "product_name": "Designer Dandiya Sticks",
+        "company_name": "Tijara",
+        "image": "images/catalogs/navratri/dandiya 3.jpg",
+        "category": "dandiya sticks",
+        "description": "2 pairs, Colour: Red, Golden, Size: 14.4 inches, Wrapped with attractive cloth and lace",
+        "price": "200",
+        "ratings": "images/ratings/3star.png"
+
+    },
+    {
+        "id": 49,  
+        "uid":49,     
+        "product_name": "Stainless Steel Dandiya",
+        "company_name": "DMS",
+        "image": "images/catalogs/navratri/dandiya 4.jpg",
+        "category": "dandiya sticks",
+        "description": "1 pair, Size: 14 Inches - Steel Dandiya, One Can Flip It Easily as it is Light Weight",
+        "price": "150",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 50,
+        "uid":50,       
+        "product_name": "Multicolor Dandiya Sticks",
+        "company_name": "Tuski",
+        "image": "images/catalogs/navratri/dandiya 5.jpg",
+        "category": "dandiya sticks",
+        "description": "6 pairs, Size: 14 Inches, Strong hardwood, PVC coated, Each pair has a different colour",
+        "price": "450",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 51, 
+        "uid":51,      
+        "product_name": "Glossy Pooja Set",
+        "company_name": "Bengalen",
+        "image": "images/catalogs/navratri/thali 1.jpg",
+        "category": "pooja thali",
+        "description": "Silver coated, contains Pooja plate and items necessary for performing rituals, 8 Inches",
+        "price": "900",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 52,
+        "uid":52,       
+        "product_name": "Brass Pooja Set",
+        "company_name": "Shri Anand",
+        "image": "images/catalogs/navratri/thali 2.jpg",
+        "category": "pooja thali",
+        "description": "Colour: Golden, Contains Pooja plate with intricate design and 7 other pooja items, 6 Inches",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 53,  
+        "uid":53,     
+        "product_name": "Hand Crafted Thali Set",
+        "company_name": "A&S Ventures",
+        "image": "images/catalogs/navratri/thali 3.jpg",
+        "category": "pooja thali",
+        "description": "Colour: Golden, Contains Pooja plate and 7 other items, Designer Plate, Material: Stoneware",
+        "price": "600",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 54, 
+        "uid":54,      
+        "product_name": "Shubh Labh Thali",
+        "company_name": "Utensil Emporium",
+        "image": "images/catalogs/navratri/thali 4.jpg",
+        "category": "pooja thali",
+        "description": "Material: Stainless Steel, Size: 10 inch, 3 pooja items along with pooja plate, Printed plate",
+        "price": "500",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 55,
+        "uid":55,       
+        "product_name": "Hand Painted Thali",
+        "company_name": "Pooja Crafts",
+        "image": "images/catalogs/navratri/thali 5.jpg",
+        "category": "pooja thali",
+        "description": "Material: Stainless Steel, the pooja plate is attached with 5 diyas, Handpainted, Multicolor",
+        "price": "600",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 56,
+        "uid":56,       
+        "product_name": "Set of Clay Diyas",
+        "company_name": "Nessie",
+        "image": "images/catalogs/navratri/diya 1.jpg",
+        "category": "diya",
+        "description": "Pack of 20, Traditional look, Material: Clay, Handmade, Long burning hours",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 57,
+        "uid":57,       
+        "product_name": "Aarti Diya",
+        "company_name": "PS Shevin",
+        "image": "images/catalogs/navratri/diya 3.jpg",
+        "category": "diya",
+        "description": "Material: Brass, One deep diya at the centre surrounded by 5 smaller diyas with a handle",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 58,
+        "uid":58,       
+        "product_name": "Crystal Akhand Diya",
+        "company_name": "Tied Ribbons",
+        "image": "images/catalogs/navratri/diya 6.jpg",
+        "category": "diya",
+        "description": "1 Brass and Crystal Studded Akhand Diya, Material: Brass, Color: Gold, Size: 12 cm X 4 cm",
+        "price": "300",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 59,
+        "uid":59,       
+        "product_name": "Star Curtain Lights",
+        "company_name": "Occasion Era",
+        "image": "images/catalogs/navratri/lighting 1.jpg",
+        "category": "lighting",
+        "description": "Colour : Warm White, Material : Plastic, 8 different lighting modes, 138 LED lights in one string",
+        "price": "650",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 60,
+        "uid":60,       
+        "product_name": "Multicolour String Lights",
+        "company_name": "Ascension",
+        "image": "images/catalogs/navratri/lighting 4.jpg",
+        "category": "lighting",
+        "description": "Pack of 6, Multicolored, Material Plastic, 13 meter strings of 35 LED bulbs each",
+        "price": "700",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 61,
+        "uid":61,       
+        "product_name": "Artificial Marigold flowers",
+        "company_name": "Saini & SONS",
+        "image": "images/catalogs/navratri/decoration 1.jpg",
+        "category": "decoration",
+        "description": "5 Pieces, Colour: Yellow, Dimensions: 20 x 8 x 2 Centimeters, Material: PVC, Light weight",
+        "price": "300",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 62,
+        "uid":62,       
+        "product_name": "Red Chakri Toran",
+        "company_name": "Magpie",
+        "image": "images/catalogs/navratri/decoration 4.jpg",
+        "category": "decoration",
+        "description": "Pack of 1 pair, Colour: Red, Golden, Material: Woolen along with Hanging bells, Size: 3.5ft",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    }
+     
+]
