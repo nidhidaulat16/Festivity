@@ -1,0 +1,84 @@
+.wishlist-heading{
+    text-align:center;
+    color:rgb(113, 226, 173);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:44px;
+}
+
+.wishlist-main{
+    margin-top:2rem;
+}
+
+.wishlist-item {
+    border-radius:5px;
+    margin-left:2rem;
+    background-color:rgb(31, 29, 29);
+    width:450px;
+    height:180px;
+    box-shadow: 5px 8px 15px rgb(187, 180, 180);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+}
+
+.wishlist-img-main{
+    background-color:white;
+    justify-content:center;
+}
+
+.wishlist-img {
+    height:150px;
+    width:200px; 
+}
+
+.wishlist-title{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:1rem;
+    font-size:19px;
+    color:rgb(157, 238, 168);
+}
+
+.wishlist-price{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:18px;
+    color:rgb(116, 235, 112);
+}
+
+.bin {
+    font-size:16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 6px 10px;
+    color:black;
+    background: #a8ff78;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bin:hover{
+    text-decoration:none;
+    border-radius:7px;
+    color:black;
+    background: #a8ff78;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #91f5d7, #abf086);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #91f5d7, #abf086); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.add-to-cart {
+    font-size:16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 6px 10px;
+    color:black;
+    background: #a8ff78;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.add-to-cart:hover{
+    text-decoration:none;
+    border-radius:7px;
+    color:black;
+    background: #a8ff78;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #91f5d7, #abf086);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #91f5d7, #abf086); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

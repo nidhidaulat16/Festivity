@@ -1,0 +1,115 @@
+.product-header{
+    font-size:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+}
+
+.product-title{
+    font-size:34px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(230, 68, 122);
+}
+
+.product-box{
+    background-color:black;
+    border:1px solid rgb(204, 201, 201);
+    border-radius:8px;
+    box-shadow: 0 6px 10px white;
+    -webkit-filter: drop-shadow(0 6px 20px rgb(71, 60, 60));
+    filter: drop-shadow(0 6px 20px rgb(75, 63, 63));height:370px;
+    width:930px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.product-img{
+    height:240px;
+    width:260px;
+}
+
+.description-box{
+    justify-content:left;
+    text-align:left;
+}
+
+.brand{
+    color:rgb(231, 49, 186);
+    text-align:left;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.description{
+    color:rgb(72, 223, 177);
+    text-align:left;
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.product-price{
+    color:rgb(49, 128, 231);
+    text-align:left;
+    font-size:19px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rates {
+    justify-content:left;
+    height:35px;
+    width:140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5px;
+}
+
+.back-items-eid{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;
+    color:rgb(231, 31, 31);
+    text-decoration:none;  
+}
+
+.back-items-eid:hover{
+    color:rgb(238, 73, 73);
+    text-decoration:none;
+}
+
+.wish-list {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px 15px;
+    color:black;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.wish-list:hover{
+    color:black;
+    border-radius:7px;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f5636d, #ce8af0, #42cdec);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f5636d, #ce8af0, #42cdec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.add-cart {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px 8px;
+    color:black;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.add-cart:hover{
+    color:black;
+    border-radius:7px;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f5636d, #ce8af0, #42cdec);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f5636d, #ce8af0, #42cdec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

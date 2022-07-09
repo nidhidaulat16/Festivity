@@ -1,0 +1,177 @@
+[
+
+    {
+        "id": 16,   
+        "uid":16,    
+        "product_name": "Floral Attar",
+        "company_name": "Menjewell",
+        "image": "images/catalogs/eid/attar 2.jpg",
+        "category": "attar",
+        "description": "Contents(6 ml) - rose fresh, chandan-e-khaas, royal mogra & rajnigandha perfume",
+        "price": "350",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 17,     
+        "uid":17,  
+        "product_name": "SAFFRON SANDAL",
+        "company_name": "Parag",
+        "image": "images/catalogs/eid/attar 3.jpg",
+        "category": "attar",
+        "description": "This Attar is Long Lasting Because is Made By Traditional Indian Process.",
+        "price": "500",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 18, 
+        "uid":18,      
+        "product_name": "Arabian Attar",
+        "company_name": "Arochem Omaar",
+        "image": "images/catalogs/eid/attar 4.jpg",
+        "category": "attar",
+        "description": "Item Form - Oil, tt contains aromatic herbs, spices, sandal oil, musk essence",
+        "price": "150",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 19,    
+        "uid":19,   
+        "product_name": "Star Food Mat",
+        "company_name": "Dulhan",
+        "image": "images/catalogs/eid/dastar 1.jpg",
+        "category": "dastarkhan",
+        "description": "Colour - Red, Size - Large, Shape - Rectangular, Material - Polyester",
+        "price": "300",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 20,  
+        "uid":20,     
+        "product_name": "Squares Table Cover",
+        "company_name": "Solimo",
+        "image": "images/catalogs/eid/dastar 3.jpg",
+        "category": "dastarkhan",
+        "description": "Colour - Maroon, Item Shape - Rectangular, Pattern - Geometric",
+        "price": "350",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 21, 
+        "uid":21,      
+        "product_name": "Net Table Cloth",
+        "company_name": "OrientalWeavers",
+        "image": "images/catalogs/eid/dastar 5.jpg",
+        "category": "dastarkhan",
+        "description": "Colour - Maroon, Size - 40 x 60 Inch, Shape - Rectangular, Pattern - Flowered",
+        "price": "350",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 22, 
+        "uid":22,      
+        "product_name": "Contemporary Prayer Mat",
+        "company_name": "OrientalWeavers",
+        "image": "images/catalogs/eid/mat 1.jpg",
+        "category": "namaz mats",
+        "description": "Colour - Maroon, Size - 40 x 60 Inch, Shape - Rectangular, Pattern - Flowered",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 23,
+        "uid":23,       
+        "product_name": "Royal Prayer Mat",
+        "company_name": "Royal Trends",
+        "image": "images/catalogs/eid/mat 2.jpg",
+        "category": "namaz mats",
+        "description": "Size - 4 x 2 Feet, Colour - Blue, Pattern - Geometric, Material - Chenille",
+        "price": "300",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 24, 
+        "uid":24,      
+        "product_name": "Anti-Skid Janamaz",
+        "company_name": "Riftree",
+        "image": "images/catalogs/eid/mat 4.jpg",
+        "category": "namaz mats",
+        "description": "Size - 4 x 2 feet, Colour - Red, Material - Chenille, Item Shape - Rectangular",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 25,
+        "uid":25,       
+        "product_name": "Cotton Velvet Mat",
+        "company_name": "Weavers Villa",
+        "image": "images/catalogs/eid/mat 5.jpg",
+        "category": "namaz mats",
+        "description": "Size - Standard, Colour - Multicolour, Material - Cotton, Shape - Rectangular",
+        "price": "250",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 26, 
+        "uid": 26,      
+        "product_name": "Sheesham Wooden Stand",
+        "company_name": "Elburs",
+        "image": "images/catalogs/eid/stand 1.jpg",
+        "category": "stands",
+        "description": "Colour - Brown, Material - Sheesham wood, Weight - 550 Grams, 30.5 x 14 x 15.2 Cms",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 27,  
+        "uid":27,     
+        "product_name": "Plastic Book Stand",
+        "company_name": "KIING",
+        "image": "images/catalogs/eid/stand 4.jpg",
+        "category": "stands",
+        "description": "Colour - Brown, Material - Plastic, Ability to fold if not in use for safe storage",
+        "price": "200",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 28,
+        "uid":28,       
+        "product_name": "Nylon Book Stand",
+        "company_name": "KIING",
+        "image": "images/catalogs/eid/stand 5.jpg",
+        "category": "stands",
+        "description": "Colour - Red, Material - Nylon, 36 x 18 x 5 Centimeters",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    
+    {
+        "id": 29,
+        "uid":29,       
+        "product_name": "Bhimseni Surma",
+        "company_name": "Bhimseni",
+        "image": "images/catalogs/eid/surma 1.jpeg",
+        "category": "surma",
+        "description": "Color: Black, Waterproof, Powder Form, Finish: Matte, 10 hr Smudge Proof",
+        "price": "150",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 30,   
+        "uid":30,    
+        "product_name": "Kohl Soorma Powder",
+        "company_name": "RiyaTouch",
+        "image": "images/catalogs/eid/surma 2.jpeg",
+        "category": "surma",
+        "description": "Pack of 1, Organic Kajal, Color: Black, Waterproof, Powder Form, Quantity: 12 g",
+        "price": "150",
+        "ratings": "images/ratings/4star.png"
+    }
+     
+]

@@ -1,0 +1,185 @@
+[
+
+    {
+        "id": 1,
+        "uid": 1,       
+        "product_name": "Clay diyas",
+        "company_name": "Shoppingdoor",
+        "image": "images/catalogs/diwali/diya/diya 5.jpg",
+        "category": "diya",
+        "description": "Set of 15 Traditional Handmade Clay diyas, Handmade, Ideal for Diwali, havan, rituals",
+        "price": "700",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 2,
+        "uid": 2,       
+        "product_name": "Golden Kalash",
+        "company_name": "Tucasa",
+        "image": "images/catalogs/diwali/diya/diya 2.jpg",
+        "category": "diya",
+        "description": "Material-‎Plastic. Number of Lights-‎50. Included Components-1 STRING LIGHT. Voltage-220 Volts. Power and Plug Description ‎Corded Electric",
+        "price": "1000",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 3,
+        "uid": 3,       
+        "product_name": "Bright Diya",
+        "company_name": "Tucasa",
+        "image": "images/catalogs/diwali/diya/diya 1.jpg",
+        "category": "diya",
+        "description": "Product Dimensions- ‏ 10 x 10 x 12 cm. Date First Available-11 September 2021. Country of Origin-India. Item Dimensions LxWxH - 10 x 10 x 12 Cms",
+        "price": "300",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 4,  
+        "uid": 4,     
+        "product_name": "Handmade Red Hanging",
+        "company_name": "Aahum",
+        "image": "images/catalogs/diwali/decoration/decoration 4.jpg",
+        "category": "lighting",
+        "description": "Decorate & bring good luck to your home by these Pom Pom Flowers Garlands Torans.",
+        "price": "400",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 5,
+        "uid":5,       
+        "product_name": "Red Marigold Flowers",
+        "company_name": "Shanu",
+        "image": "images/catalogs/diwali/decoration/decoration 5.jpg",
+        "category": "decoration",
+        "description": "In The Box. Pack of 10. Brand Shanu enterprises. Flower Type Marigold. Collection Type Garlands. Color Red. Fragrance No. Flower Material Plastic. Dimensions. Total Length 60 inch",
+        "price": "500",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 6,   
+        "uid":6,    
+        "product_name": "Home String Lights",
+        "company_name": "Epyz",
+        "image": "images/catalogs/diwali/lighting/lighting 1.jpg",
+        "category": "lighting",
+        "description": "Light Source Type - LED. Occasion - Home, Lawn, Party, Indoor, Outdoor, Party. Power Source - 400mah. Is Waterproof - True. Brand - Epyz. Material - Plastic. Number of Light Sources - 30. Style - Crystal Ball. Item Dimensions LxWxH - 20 x 10 x 10 Cms.",
+        "price": "900",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 7,  
+        "uid":7,     
+        "product_name": "LED Curtain Lights",
+        "company_name": "AtenP",
+        "image": "images/catalogs/diwali/lighting/lighting 3.jpg",
+        "category": "lighting",
+        "description": "Light Source Type - LED. Occasion - Diwali, New Year, Wedding. Power Source - Corded Electric. Colour - Warm White. Brand - AtneP. Material - Others",
+        "price": "900",
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 8,
+        "uid":8,       
+        "product_name": "Blossom String Lights",
+        "company_name": "AtenP",
+        "image": "images/catalogs/diwali/lighting/lighting 4.jpg",
+        "category": "lighting",
+        "description": "Light Source Type - LED. Occasion - Diwali, Christmas, Birthday. Brand - AtneP. Material - Others. Number of Light Sources - 20. Colour - Multicolours",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 9,  
+        "uid":9,     
+        "product_name": "Colour Powder Tube Kit",
+        "company_name": "CraftVatika",
+        "image": "images/catalogs/diwali/rangoli/rangoli 1.jpg",
+        "category": "rangoli",
+        "description": "Rangaoli Package Contain: Set of 10 Multicolour Rangoli color bottles .Quantity : Approx 35 Grams each (420 Grams Total). Set of 10 colors are sure to brighten up your Home Festive decoration. Rangoli Powder is used as a diwali decoration of entrance",
+        "price": "300" ,
+        "ratings": "images/ratings/4star.png"
+    },
+
+    {
+        "id": 10, 
+        "uid":10,      
+        "product_name": "Rangoli Colour Bottles",
+        "company_name": "ME&YOU",
+        "image": "images/catalogs/diwali/rangoli/rangoli 2.jpg",
+        "category": "rangoli",
+        "description": "This plastic bottles has 100 Grams Each Rangoli powder. Material: Powder. Color: Multicolor. Package Contents: 1 Set of 10 Multicolor Rangoli Powder (100 Grams Each). Smooth & silky, these colors make the art form a convenient one.",
+        "price": "350",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    {
+        "id": 11,      
+        "uid":11,   
+        "product_name": "Foldable Balcony Lantern",
+        "company_name": "A2Z",
+        "image": "images/catalogs/diwali/kandil/kandil.jpg",
+        "category": "kandil",
+        "description": "Add a light i-e cfl/LED bulb to the kandil after creating it in a proper shape. Hang it with a holder and a wire with a hook outside your home door. Self assemble long life and foldable - you can fold and pack and keep it secure.",
+        "price": "1000",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 12,     
+        "uid":12,    
+        "product_name": "Paper lamp Shade",
+        "company_name": "Shoppingdoor",
+        "image": "images/catalogs/diwali/kandil/kandil 2.jpg",
+        "category": "kandil",
+        "description": "Brand Shopping door. Colour-Multicolour. Style-Modern. Material-Paper. Item Dimensions-LxWxH - 36 x 35 x 2 Centimeters. Item Shape-Round",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 13,
+        "uid": 13,      
+        "product_name": "Butterfly Hanging Candle",
+        "company_name": "Spaveda",
+        "image": "images/catalogs/diwali/diya/diya 3.jpg",
+        "category": "diya",
+        "description": "Style-‎Antique. Colour-‎Golden. Material-Others. Type of Bulb ‎LED",
+        "price": "250",
+        "ratings": "images/ratings/5star.png"
+    },
+
+    
+    {
+        "id": 14,
+        "uid":14,  
+        "product_name": "Artificial Marigold Flowers ",
+        "company_name":"Logro",
+        "image": "images/catalogs/diwali/decoration/decoration 2.jpg",
+        "category": "decoration",
+        "description": "Plant Product Type - Marigold Specific Uses For Product - Home Decor Colour - Multicolour Item Dimensions LxWxH - 20 x 10 x 10 Centimeters Material - Plastic Brand - Logro Occasion - Diwali, Ganesh Chaturthi, Farewell Indoor/Outdoor Usage - Indoor",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+
+    {
+        "id": 15,    
+        "uid":15,   
+        "product_name": "Handmade Strings",
+        "company_name": "Magpie",
+        "image": "images/catalogs/diwali/decoration/decoration 3.jpg",
+        "category": "lighting",
+        "description": "Handmade product of woolen pom-pom,golden beads,chakri and golden hanging bells.",
+        "price": "300",
+        "ratings": "images/ratings/4star.png"
+    }
+
+    
+     
+]

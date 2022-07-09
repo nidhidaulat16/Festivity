@@ -1,0 +1,64 @@
+.cart-heading {
+    font-size:42px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    margin-top:0px;
+    color:rgb(84, 215, 238);
+}
+
+.cart-buttons{
+    text-decoration:none;
+}
+
+.confirm {
+    color:black;
+    text-decoration:none;
+    background: #c0c0aa;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.confirm:hover {
+    border-radius:7px;
+    text-decoration:none;
+    background: #c0c0aa;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #79e6ee, #cfcfc7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #79e6ee, #cfcfc7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.proceed {
+    color:black;
+    text-decoration:none;
+    background: #c0c0aa;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    text-decoration:none;
+    
+}
+
+.proceed:hover{
+    color:black;
+    text-decoration:none;
+    border-radius:7px;
+    text-decoration:none;
+    background: #c0c0aa;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #79e6ee, #cfcfc7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #79e6ee, #cfcfc7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+li {
+    text-decoration:none;
+    list-style-type:none;
+}
+
+.cart-tagline{
+    font-size:22px;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(68, 164, 228);
+}

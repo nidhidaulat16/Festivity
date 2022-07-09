@@ -1,0 +1,152 @@
+[
+    {
+        "id": 83,
+        "uid":83,      
+        "product_name": "Rakhi Combo",
+        "company_name": "YouBella",
+        "image": "images/catalogs/rakhi/rakhi 1.jpg",
+        "category": "rakhi",
+        "description": "Pack of 2, Material - Fabric, 5.9 inches, Comes with a pack of Roli and Chawal, Multicolor",
+        "price": "150",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 84,  
+        "uid":84,     
+        "product_name": "RUDRAKSH Rakhi",
+        "company_name": "Kudaya Fashion",
+        "image": "images/catalogs/rakhi/rakhi 2.jpg",
+        "category": "rakhi",
+        "description": "Pack of 5, Material - Fabric, Pearl, Metal, Comes with Roli and Chawal, Multicolor",
+        "price": "150",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 85, 
+        "uid":85,      
+        "product_name": "Elegant Rakhi Set",
+        "company_name": "Collectible India",
+        "image": "images/catalogs/rakhi/rakhi 3.jpg",
+        "category": "rakhi",
+        "description": "Set of 5 (1 Krisha Rakhi, 1 Designer Rakhi, 2 pearl rakhi, 1 Rakhi Greeting Card",
+        "price": "200",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 86, 
+        "uid":86,      
+        "product_name": "Rakhi For Brother",
+        "company_name": "DishanKart",
+        "image": "images/catalogs/rakhi/rakhi 4.jpg",
+        "category": "rakhi",
+        "description": "Package Contains - 4 Rakhi & 1 Roli, 1 Chawal pack, Material - Fabric, Multicolor",
+        "price": "200",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 87,
+        "uid":87,       
+        "product_name": "Gold Plated Rakhi",
+        "company_name": "I Jewels",
+        "image": "images/catalogs/rakhi/rakhi 5.jpg",
+        "category": "rakhi",
+        "description": "Material - Plastic with Golden finish, Traditional look, Gold plated peacock design",
+        "price": "350",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 88,   
+        "uid":88,    
+        "product_name": "Kids Rakhi Set",
+        "company_name": "Beingelegant",
+        "image": "images/catalogs/rakhi/kids/rakhi 1.jpg",
+        "category": "kids rakhi",
+        "description": "Material - Ceramic, Pack consists of 3 rakhis and pack of roli chawal, Multicolor",
+        "price": "350",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 89, 
+        "uid":89,      
+        "product_name": "Cartoon Rakhi Set",
+        "company_name": "VR Creatives",
+        "image": "images/catalogs/rakhi/kids/rakhi 2.jpg",
+        "category": "kids rakhi",
+        "description": "Material - Plastic, Bal Krishna and Doraemon cartoon character rakhi, Multicolor",
+        "price": "100",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 90, 
+        "uid":90,      
+        "product_name": "Cartoon Rakhi Combo",
+        "company_name": "TRVK",
+        "image": "images/catalogs/rakhi/kids/rakhi 3.jpg",
+        "category": "kids rakhi",
+        "description": "Material - Plastic, Chota Bheem and Motu Patlu cartoon character rakhi, Multicolor",
+        "price": "180",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 91, 
+        "uid":91,      
+        "product_name": "Kids Rakhi",
+        "company_name": "Urvi Creations",
+        "image": "images/catalogs/rakhi/kids/rakhi 4.jpg",
+        "category": "kids rakhi",
+        "description": "Material - Brass, Shin Chan cartoon character rakhi, Color: Red, Pearl Beaded Chain",
+        "price": "250",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 92,
+        "uid":92,       
+        "product_name": "Marvel Rakhi Set",
+        "company_name": "Kizzi",
+        "image": "images/catalogs/rakhi/kids/rakhi 5.jpg",
+        "category": "kids rakhi",
+        "description": "Iron man and Captain America rakhis, Color: Red, Pack contains 2 rakhis & roli chawal",
+        "price": "250",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 143,       
+        "product_name": "Decorative Plate Combo",
+        "company_name": "Mela Store",
+        "image": "images/catalogs/rakhi/thali 1.jpg",
+        "category": "thali",
+        "description": "Material - Acrylic with metallic finish, Contains pooja plate with roli chawal and 4 rakhis",
+        "price": "400",
+        "ratings": "images/ratings/3star.png"
+    },
+    {
+        "id": 144,       
+        "product_name": "Elegant Rakhi Set",
+        "company_name": "ACCESSHER",
+        "image": "images/catalogs/rakhi/thali 2.jpg",
+        "category": "thali",
+        "description": "Material - Plastic, Contains Pooja plate, Roli chawal and a Rakhi, Peacock design, Golden",
+        "price": "250",
+        "ratings": "images/ratings/4star.png"
+    },
+    {
+        "id": 145,       
+        "product_name": "Rakhi Thali Set",
+        "company_name": "SIYAA",
+        "image": "images/catalogs/rakhi/thali 3.jpg",
+        "category": "thali",
+        "description": "Material - Aluminuim, Contains Pooja plate, Roli chawal and a Rakhi, Colour - Golden",
+        "price": "300",
+        "ratings": "images/ratings/5star.png"
+    },
+    {
+        "id": 146,       
+        "product_name": "Silver Thali Set",
+        "company_name": "GoldGiftIdeas",
+        "image": "images/catalogs/rakhi/thali 4.jpg",
+        "category": "thali",
+        "description": "Material - Sterling Silver, Contains Pooja plate, Silver OM rakhi, Lakshmi Ganesha Coin",
+        "price": "550",
+        "ratings": "images/ratings/4star.png"
+    }
+]
