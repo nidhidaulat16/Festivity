@@ -15,4 +15,5 @@
 8) Contributors:
    - https://github.com/nidhidaulat16
    - https://github.com/mihir170901
+   - https://github.com/mishkatshaikh
    
