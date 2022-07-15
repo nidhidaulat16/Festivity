@@ -1,5 +1,4 @@
-# festivity
-***Indian Festival Catalog of an E-commerce Website - Festivity***
+#***Indian Festival Catalog of an E-commerce Website - Festivity***
 1) Technologies used - MERN stack along with basic html css and js:
    - Mongo db
    - Express.js
